@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "title": "Pet Vaccinations & Parasite Prevention",
+      "doctorName": "Carissa Shepard",
+      "serviceFee": "$203",
+      "picture": "https://smb.ibsrv.net/imageresizer/image/blog_images/1200x1200/24735/97311/0621501001547068703.jpg",
+      "description": "At Animal Health Services, our team focuses on preventive care to prevent common diseases and disorders from arising in your pets.In combination with routine wellness exams, parasite prevention, and pet vaccinations establish the base of your companions routine veterinary care.Preventive care is your pets best chance to live a healthy and long life. You and our veterinary team will work together to develop a customized preventive care plan thats tailored to the needs of your dog or cat."
+    },
+    {
+      "id": 2,
+      "title": "Cat & Dog Wellness Exams",
+      "doctorName": "Sandy Cummings",
+      "serviceFee": "$313",
+      "picture": "https://www.sandiegobayanimalhospital.com/files/san_diego_vet/exams.jpg",
+      "description": "Wellness exams are an essential part of helping your cat or dog stay in excellent physical health their wlhole life.When performed in combination with regular parasite prevention, vaccinations, and proper nutrition, these veterinary checkups in Cave Creek  give your cat or dog their best opportunity for life-long good health.When you take your pet to see us for their routine checkup, we can help keep health conditions from developing in your pet, or detect them in their early stages, when they are most treatable.Types of common emergency situations requiring urgent care:Bite wounds,Bleeding,Collapse, fainting, or seizures,Sudden changes in ability to walk and paralysis,Extreme changes in behavior,Difficulty or noisy breathing,Difficulty urinating,Trauma, such as being hit by a car or falling out of a window,Ingestion of any toxins or poisons,Repeated vomiting and diarrhea for more than 24 hours,Trouble giving birth"
+    },
+    {
+      "id": 3,
+      "title": "Veterinary Dentistry & Dental Surgery",
+      "doctorName": "Riddle Cobb",
+      "serviceFee": "$153",
+      "picture": "https://greentreeanimalhospital.com/images/veterinary-images/routine-veterinary-dental-care.jpg",
+      "description": "If we spot signs of gingivitis, plaque and tartar buildup, or other problems during routine exams, we will recommend a through dental cleaning. Pet dental cleanings are performed under anesthesia, as recommended by the American Veterinary Dental College and required by the American Animal Hospital Association.As with other anesthetic procedures at Ingleside Animal Hospital, blood work is required and performed to confirm the pet is healthy and to identify any potential risk that will need to be monitored. All patients under anesthesia are on IV fluid support and are carefully observed throughout the procedure and during post-operative recovery.During the dental cleaning, we will also take dental X-rays to evaluate if there is disease that cannot be detected by a visual inspection. Sometimes, extractions are performed. For teeth with decay, we also offer restorative dental work. Antibiotics and pain medication will be prescribed as necessary. We will go over post-dental at-home care with you."
+    },
+    {
+      "id": 4,
+      "title": "Behavioral & Nutritional Counseling",
+      "doctorName": "Wall Livingston",
+      "serviceFee": "$250",
+      "picture": "https://sandypawsveterinaryclinic.com/images/imgNutritional1.jpg",
+      "description": "Behavioral problems in cats can be extremely frustrating for owners. Inappropriate elimination and aggression are the two most common reasons why cats are surrendered to animal shelters. At Cats Exclusive, we strive to educate owners about normal feline behavior and identify causes for problem behaviors. Sometimes, “bad” behavior is caused by a medical problem. This is why a physical examination of your cat is an integral part of our behavioral consultation. Evaluation of your cat’s environment also helps us identify possible triggers that may contribute to the problem behavior. We will work with you to help design a treatment plan to address your cat’s unwanted behavior. This plan will include follow-up to make sure you get the results you want."
+    },
+    {
+      "id": 5,
+      "title": "Consulting Services",
+      "doctorName": "Traci Richards",
+      "serviceFee": "$152",
+      "picture": "https://myanimals.com/wp-content/uploads/2018/10/Small-dog-having-a-medical-check-up-1.jpg",
+      "description": "Whether this is your first time breeding your dog or cat, or you are an experienced breeder, our veterinary team is here to help. We are committed to ensuring that you and your animals have a stress-free experience as you move through the breeding process.Good nutrition is the cornerstone to long-term optimal health for your beloved pet. That's why, when it comes to nutritional advice it's always best to consult a trained professional with knowledge of your pet's overall condition and any health issues your pet may be experiencing."
+    },
+    {
+      "id": 6,
+      "title": "Boarding for Pets",
+      "doctorName": "Stacie Mack",
+      "serviceFee": "$129",
+      "picture": "https://bestpetsinc.com/wp-content/uploads/2019/12/Pet-Boarding-Services-2-788x420.png",
+      "description": "We understand that it can be stressful to leave your pet home alone all day  especially if they are ill, or when they are recovering from a procedure or surgery. At Animal Health Services, we want to help put your mind at ease.We provide daycare boarding services for Cave Creek pets, and medical boarding services for dogs and cats with conditions standard boarding centers may not be equipped to accommodate.Our boarding services are offered during our regular business hours, Monday through Saturday "
+    },
+    {
+      "id": 7,
+      "title": "Puppy & Kitten Veterinary Care",
+      "doctorName": "Rae Byers",
+      "serviceFee": "$125",
+      "picture": "https://www.amigoanimalhospital.com/storage/app/media/puppy_kitten.jpg",
+      "description": "It's exciting to take home a new and cuddly puppy or kitten. They can't help but make you and everyone you introduce them to smile.As lively as this occasion is, there is also a number of important health care matters to take care of during your new furry friend's first year of life.Your vet will establish a custom health care plan to meet the specific and unique needs of your puppy or kitten during their first year, and will give you lots of support and guidance along the way!!"
+    },
+    {
+      "id": 8,
+      "title": "Allergy Testing & Dermatology for Pets",
+      "doctorName": "Lula Gallegos",
+      "serviceFee": "$126",
+      "picture": "https://www.vet.cornell.edu/sites/default/files/183118-allergy-5.jpg",
+      "description": "Millions of pets suffer from allergies and skin disorders. It is estimated that about 10–15% of pets suffer from allergies, but only 2% are properly diagnosed. Many pets go untreated or the issue may never get completely resolved. Often identifying the offending allergen and finding the right treatment can be challenging. Here at Ingleside Animal Hospital, we have the advanced diagnostic skills to relieve pet allergies and skin problems."
+    },
+    {
+      "id": 9,
+      "title": "Urgent Care/Pet Emergency & Critical Care",
+      "doctorName": "Elma Carey",
+      "serviceFee": "$349",
+      "picture": "https://www.theanimalcareclinics.com/wp-content/uploads/2016/11/Emergency-Veterinary-Services-Westerville-Ohio.jpg",
+      "description": "In a critical or acute situation,the need for urgent or emergency care is obvious. Others times, owners may be unsure, wondering if it can wait. You know your pet best and if you believe your pet is sick or hurt, please seek out emergency services.Types of common emergency situations requiring urgent care:Bite wounds,Bleeding,Collapse,fainting, or seizures,Sudden changes in ability to walk and paralysis,Extreme changes in behavior Difficulty or noisy breathing,Difficulty urinating Trauma,such as being hit by a car or falling out of a window,Ingestion of any toxins or poisons,Repeated vomiting and diarrhea for more than 24 hours,Trouble giving birth"
+    },
+    {
+      "id": 10,
+      "title": "Protect Your Pet From Harmful Parasites",
+      "doctorName": "Foster Valentine",
+      "serviceFee": "$200",
+      "picture": "https://vetmed.illinois.edu/wp-content/uploads/2021/04/pc-parasites-brummet.jpg",
+      "description": "Pets can become infected with a number of different parasites that may not only affect their everyday quality of their life, but also can cause diseases. Ingleside Animal Hospital provides the guidance needed to protect pets with the safest and most effective products available."
+    }
+  ]
